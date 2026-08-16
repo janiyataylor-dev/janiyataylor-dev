@@ -1,6 +1,6 @@
-# Hi, I'm Janiya Taylor
+# Hi, I'm Janiya Taylor 👋
 
-### Web Developer | Multimedia & Web Development Graduate
+### Web Developer | Multimedia & Web Development
 
 I'm a web developer with a background in Multimedia & Web Development, focused on creating modern, responsive, and user-friendly digital experiences.
 
@@ -9,25 +9,45 @@ I'm a web developer with a background in Multimedia & Web Development, focused o
 - Build responsive websites and web applications
 - Create interactive and engaging user experiences
 - Work with HTML, CSS, and JavaScript
-- Develop and maintain projects using Git and GitHub
-- Continuously learn new technologies and improve my development skills
+- Integrate third-party services and APIs
+- Use Git and GitHub for version control and project management
+- Build and maintain client-focused web projects
 
 ## Technologies & Tools
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Supabase
+- EmailJS
+- Calendly
+- Swiper.js
 - Git
 - GitHub
 - Visual Studio Code
 
+## Featured Project
+
+### Elev8 Salon Consulting
+
+A responsive client website built for a salon consulting and professional training business.
+
+**Highlights:**
+- Responsive desktop, tablet, and mobile design
+- Interactive service and booking system
+- Calendly appointment integration
+- EmailJS contact form
+- Supabase-powered review system
+- Secure admin authentication
+- Customer review management
+- GitHub Pages deployment
+
+🔗 **[View Live Website](https://janiyataylor-dev.github.io/elev8-salon-consulting/)**  
+🔗 **[View Project on GitHub](https://github.com/janiyataylor-dev/elev8-salon-consulting)**
+
 ## Current Focus
 
-I'm currently building projects to expand my development portfolio and strengthen my skills in web development, user experience, and information systems.
-
-## Featured Projects
-
-More projects coming soon.
+I'm continuing to build real-world projects while expanding my skills in web development, user experience, and information systems.
 
 ## Education
 
