@@ -1,4 +1,4 @@
-# Hi, I'm Janiya Taylor 👋
+# Hi, I'm Janiya Taylor 
 
 ### Web Developer | Multimedia & Web Development
 
